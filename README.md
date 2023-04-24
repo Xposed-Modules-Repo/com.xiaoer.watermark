@@ -1,6 +1,7 @@
 # com.xiaoer.watermark
 
 已经开源，欢迎交流
+https://github.com/1248774172/WaterMark
 
 ## 使用方法
 1.下载模块并在LSposed中激活本模块 作用域需要勾选”系统框架“
